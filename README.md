@@ -2,7 +2,7 @@ Argue of selection sort correctness:-
 
 1. Selection sort is correct because it pin points the well-defined sorting algorithm process which is ensuring all the elements in the array are stored in an order after the algorithm completes it's task.
 
-2. Here we use a loop varient, which is a property that is true before and after every iteration of a loop.
+2. Here we use a loop varient, which is a property that is true before and after every iteration of a loop. 
 At the start of the i-th iteration, the first i elements of the array are sorted and contain the smallest i elements in the correct order.
 
 
